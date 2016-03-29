@@ -1,37 +1,37 @@
 app.controller('MainController', ['$scope', function($scope) {
   $scope.exercises = [
     {
-      icon: 'img/pushup.jpg',
+      icon: 'img/weights-image.jpeg',
       name: 'Pushups',
       count: 20
     },
     {
-      icon: 'img/squat.jpg',
+      icon: 'img/weights-image.jpeg',
       name: 'Squats',
       count: 15
     },
     {
-      icon: 'img/pullup.jpg',
+      icon: 'img/weights-image.jpeg',
       name: 'Pullups',
       count: 10
     },
     {
-      icon: 'img/row.jpg',
+      icon: 'img/weights-image.jpeg',
       name: 'Rows',
       count: 10
     },
     {
-      icon: 'img/lunge.jpg',
+      icon: 'img/weights-image.jpeg',
       name: 'Lunges',
       count: 10
     },
     {
-      icon: 'img/stepup.jpg',
+      icon: 'img/weights-image.jpeg',
       name: 'Step Ups',
       count: 10
     },
     {
-      icon: 'img/situp.jpg',
+      icon: 'img/weights-image.jpeg',
       name: 'Sit Ups',
       count: 15
     }
